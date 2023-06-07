@@ -23,6 +23,22 @@
       "category": "Treinamentos",
       "price": 1290,
       "createdAt": "2023-06-05T19:01:42.245Z"
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-06-07T10:58:21.279Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-07T11:24:39.900Z",
+      "id": 5
     }
   ]
 }
